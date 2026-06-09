@@ -13,6 +13,9 @@ Assumptions:
 - 50% correct antibiotic intake at baseline, with an expected increase in correct antibiotic use to 65% due to the intervention (ARR=15%)
 - intraclass correlation coefficient (ICC) of 0.05 based on antibiotic use captured in exit surveys at different community-level providers in Ingelbeen, Valia et al Lancet Infect Dis 2026
 
+<img width="864" height="528" alt="image" src="https://github.com/user-attachments/assets/bef6a0ed-0458-4eed-bf8c-7778b62459e3" />
+<img width="864" height="528" alt="image" src="https://github.com/user-attachments/assets/f274a778-80bc-4910-bab5-80c77eac614c" />
+
 2. A longitudinal cohort of the general population to evaluate the indirect intervention effect on healthcare utilisation and the per capita rate of antibiotic use (exploratory outcome; limited to HDSS in Nanoro, Burkina Faso, and Agincourt, South Africa)
 
 Assumptions
